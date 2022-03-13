@@ -2,7 +2,7 @@ body {
     background-color: #192231;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
 
 .card {
     width: 600px;
@@ -38,7 +38,7 @@ body {
     margin-top: -5%;
     letter-spacing: 10px;
     font-size: 26px;
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Syne Mono', monospace;
     animation: textdemon 2s infinite alternate-reverse;
 }
 
@@ -73,7 +73,7 @@ body {
     background-color: #985e6d;
     color: #494e68;
     font-size: 20px;
-    font-family: Demon;
+    font-family: 'Syne Mono', monospace;
 }
 
 .btn:hover {
