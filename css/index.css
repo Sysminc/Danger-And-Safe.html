@@ -2,10 +2,7 @@ body {
     background-color: #192231;
 }
 
-@font-face {
-    font-family: Demon;
-    src: url(/fonts/Demon.ttf);
-}
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
 
 .card {
     width: 600px;
@@ -41,7 +38,7 @@ body {
     margin-top: -5%;
     letter-spacing: 10px;
     font-size: 26px;
-    font-family: Demon;
+    font-family: 'Rubik', sans-serif;
     animation: textdemon 2s infinite alternate-reverse;
 }
 
