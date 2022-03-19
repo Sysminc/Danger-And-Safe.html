@@ -38,7 +38,7 @@ body {
     margin-top: -5%;
     letter-spacing: 10px;
     font-size: 26px;
-    font-family: 'Syne Mono', monospace;
+    font-family: 'Syne Mono';
     animation: textdemon 2s infinite alternate-reverse;
 }
 
@@ -73,7 +73,7 @@ body {
     background-color: #985e6d;
     color: #494e68;
     font-size: 20px;
-    font-family: 'Syne Mono', monospace;
+    font-family: 'Syne Mono';
 }
 
 .btn:hover {
