@@ -19,7 +19,7 @@ function sum() {
         alert("Tahun tidak valid");
         return false;
     }
-    else if ((tahun + tanggal + bulan) % 2 == 0) {
+    else if ((tahun + tanggal + bulan) % 2 != 0) {
         window.location.href = "gak.html";
     } else {
         window.location.href = "iya.html";
