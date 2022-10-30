@@ -1,8 +1,8 @@
 ## About
 
-Web based for calculate of day. Useful when your date with someone or for meeting job
+Simple Web for calculate of day. Useful when your date with someone or for meeting job
 
-## Function
+## Function and Explan
 
 - Date = [00]
 - Month = [00]
